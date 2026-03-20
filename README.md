@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishkarsh Awasthi</h1>
 <h3 align="center">Full-Stack Developer | Generative AI Engineer | Building Scalable AI Systems</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Full-Stack+Developer;Generative+AI+Engineer;Building+AI+Products" />
+</p>
+
 ---
 
 ## 🚀 About Me
